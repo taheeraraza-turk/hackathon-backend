@@ -18,6 +18,8 @@
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
+
+
   "description": "- Uses serverless-http so it can be deployed to Vercel under /api. - Environment variables needed:   - MONGODB_URI   - JWT_SECRET",
   "main": "api/index.js",
   "keywords": [],
